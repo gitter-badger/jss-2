@@ -3,6 +3,8 @@
 jss
 ===
 
+[![Join the chat at https://gitter.im/danvk/jss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/danvk/jss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 jss is a JSON processing command line tool (like jq).
 
 Unlike [jq](http://stedolan.github.io/jq/), its selection language is
